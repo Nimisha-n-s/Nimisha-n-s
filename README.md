@@ -23,11 +23,11 @@
 <picture> <img align="right" src="https://raw.githubusercontent.com/Ajayos/Ajayos/master/gif/Right_Side.gif" width = 250px></picture>
 
 - 👩‍💻 Hey there, I'm from Kerala 😜  
-- 👩‍💻 I'm a Diploma graduate in Computer Engineering and currently pursuing a BTech in Computer Science. 🚀 Coding is my passion, and I absolutely love exploring new technologies and learning along the way. 😍😉  
+- 👩‍💻 I'm a Diploma graduate in Computer Engineering
+- 👩‍💻currently pursuing a BTech in Computer Science.
+-  🚀 Coding is my passion, and I absolutely love exploring new technologies and learning along the way. 😍😉  
 - 👩‍💻 I’m excited to contribute to open-source projects while growing as a developer. 😁  
-- 👩‍💻 Always eager to collaborate on open-source initiatives! Let’s build something awesome together. 👯  
-- 👩‍💻 Feel free to ask me anything—I’m here to help however I can! Just remember, it’s gotta be in my court. 😉  
-- 👩‍💻 Pronouns: He/Him/We  
+- 👩‍💻 Always eager to collaborate on open-source initiatives! Let’s build something awesome together. 👯    
 - 👩‍💻 ⚡ Fun fact: Did you know there are over 700 different programming languages out there?  
 - 👩‍💻 💪🏼 Favorite quote: "Great developers never stop learning."  
 - 👩‍💻 🔄 My routine: Eat - Sleep - Code - Repeat
